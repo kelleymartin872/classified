@@ -7,7 +7,7 @@ This is a web application created as a classified ads management system made for
 - [Contact Us](https://mayeconcept.com.ng//contact).
 - [Read more and learn with us](https://mayeconcept.com.ng//blogs).
 
-it is accessible and a powerful web applications.
+mayeconcept Classified Ads is accessible and a powerful web applications.
 
 ## Security Vulnerabilities
 
